@@ -13,6 +13,8 @@ public class App
         System.out.println("Welcome to laxmi java!!");
         System.out.println("Welcome to pitam bahadur tail");
         System.out.println("Welcome to suk maya java!!");
+        
+        System.out.println("This is fucking awesome");
 
     }
 }
