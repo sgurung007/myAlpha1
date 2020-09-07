@@ -15,6 +15,8 @@ public class App
         System.out.println("Welcome to suk maya java!!");
         
         System.out.println("This is fucking awesome");
+        
+        System.out.println("Welcome to oklahoma");
 
     }
 }
