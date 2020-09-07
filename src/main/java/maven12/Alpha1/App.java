@@ -18,6 +18,7 @@ public class App
         System.out.println("change 1 from github in master branch");
         System.out.println("change 1 from eclipse in tail branch");
         System.out.println("change 2 from eclipse in tail branch");
+        System.out.println("change 2 from github in master branch");
         
 
 
