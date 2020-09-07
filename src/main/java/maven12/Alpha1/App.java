@@ -10,5 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Welcome to the suraj java!" );
+        System.out.println("Welcome to laxmi java!!");
+        System.out.println("Welcome to suk maya java!!");
+        System.out.println("Welcome to s")
     }
 }
